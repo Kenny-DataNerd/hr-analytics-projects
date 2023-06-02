@@ -5,6 +5,10 @@ This repository contains code, data, and documentation for my HR Analytics proje
 
 PROJECT 1
 
-TITLE: Systers Limited
+Title: Systers Limited
+
 Date: 3rd June 2023
+
 Tools: SQL, Tableau & Excel
+
+Dataset Link: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/code
